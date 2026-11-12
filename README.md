@@ -28,3 +28,10 @@ funcionando offline depois da primeira visita. Jogue com o celular **deitado**.
 
 ## Atualizar o jogo
 Ao trocar o `index.html`, mude também `CACHE` em `sw.js` (ex.: `kingdom-fades-v3`).
+
+## Mini jogo: Defenda a Torre
+Joguinho simples de defender torre em `torre/index.html` (abre direto no navegador, sem instalar nada).
+No GitHub Pages fica em `https://<usuario>.github.io/<repositorio>/torre/`.
+- **Segure** o dedo/mouse (ou a barra de espaço) para mirar e atirar flechas.
+- 3 bichinhos: **Slime** verde (rápido), **Bloco** vermelho (teimoso) e **Golem** roxo (tanque).
+- Entre as ondas, gaste ouro na **Árvore do Arqueiro**: dano, velocidade, flechas extras e muralha.
